@@ -41,7 +41,7 @@ export function Dashboard() {
               <ArrowLeft className="w-4 h-4" />
             </Button>
             <h1 className="text-3xl font-display font-bold text-foreground">
-              Data Security Posture Management
+              neo_security
             </h1>
           </div>
           <p className="text-muted-foreground font-medium">
